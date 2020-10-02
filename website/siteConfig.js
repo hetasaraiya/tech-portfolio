@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Hetaben Saraiya', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
+    tagline: 'Continuously improving, aspiring technologist.', // Change this later....
     profilePhoto: 'img/profile.png',
     url: 'https://hetasaraiya.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
